@@ -46,7 +46,7 @@ function ContactUsPage() {
               <div className="rounded-full flex items-center justify-center size-11 bg-secondary p-2">
                 <Phone className="size-10" />
               </div>
-              <p>+2348038614110</p>
+              <a href="tel:+2347033689971" aria-label="+2347033689971">+2347033689971</a>
             </Stack>
           </div>
           <div className="hover:shadow-md min-w-[20%] p-2 border-b">
